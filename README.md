@@ -31,5 +31,5 @@ The README.md provides comprehensive documentation including the project vision,
 This creates a solid foundation for a decentralized social networking platform on Ethereum with room for extensive future development!RetryClaude does not have the ability to run the code it generates yet.Claude can make mistakes. Please double-check responses. Sonnet 4
 
 contract details:0x1801a894300dcdE4dd3ab06A06840e8115e88376
-<img width="2814" height="1554" alt="image" src="https://github.com/user-attachments/assets/023ecf7c-10a1-4677-a225-ef6c43af74ea" />
+<img width="2814" height="1554" alt="image" src="https://github.com/user-attachments/assets/023ecf7c-10a1-4677-a225-ef6c43af74ea" /> 
 
